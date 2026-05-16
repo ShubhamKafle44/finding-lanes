@@ -1,4 +1,6 @@
 **Lane Detection with OpenCV**
+
+
 This project demonstrates a lane detection system using OpenCV and NumPy. It processes both images and video streams to identify lane markings on the road. The algorithm leverages edge detection, region masking, and the Hough Transform to identify lines and mark the lanes.
 
 **Features**
