@@ -6,7 +6,7 @@ This project demonstrates a lane detection system using OpenCV and NumPy. It pro
   Region of Interest: Focuses on a specific region of the image to improve accuracy.
   Hough Line Transform: Detects lines in the processed image, using probabilistic Hough line detection.
   Lane Averaging: Averages multiple detected lines to produce a smoother lane display.
-  Alpha-Beta Smoothing: Combines the original image with lane markings using a weighted sum to overlay the detected lanes onto the frame.\
+  Alpha-Beta Smoothing: Combines the original image with lane markings using a weighted sum to overlay the detected lanes onto the frame.
   
 **Usage**
 
